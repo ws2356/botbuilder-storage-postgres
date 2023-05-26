@@ -17,9 +17,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@types/pg": "^7.11.2",
+    "@types/pg": "^8.4.1",
     "botbuilder": "^4.6.0",
-    "pg": "^7.12.1",
+    "pg": "^8.4.1",
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.29.0"
   },
